@@ -24,9 +24,9 @@ class MainActivity : AppCompatActivity() {
             var a=n.text.toString().toInt()
             var b=n1.text.toString().toInt()
 
-            var c=a+b
+            var d=a+b
 
-            n3.text=c.toString()
+            n3.text=d.toString()
 
 
 
